@@ -33,7 +33,8 @@ For manual Test: JMeter (Thread Group.jmx)
 
 
 ## List of Files included
-Testcases file
-Report file path: cypress\reports\mocha
+Testcases file "Highlighted Test cases"
+
+Report file path: "cypress\reports\mocha"
 
 
