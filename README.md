@@ -27,7 +27,11 @@ Git version 2.26.2.
 
 
 ## Performance Report
-For automatic quick performance report: GTmetrics, page speed
+For automatic quick performance report: 
+
+GTmetrics: https://gtmetrix.com/reports/www.amazon.com/xJfEb8VN 
+
+Page speed: https://developers.google.com/speed/pagespeed/insights/?url=www.amazon.com
 
 For manual Test: JMeter (Thread Group.jmx)
 
