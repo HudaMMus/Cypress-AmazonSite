@@ -1,0 +1,31 @@
+# Scenario 1
+
+## “Check your gift card's balance is $0.00”
+
+TC1: Gift card should be navigated from the top page links bar
+
+TC2: For new users, Gift cards should always equal 0.00
+
+
+
+# Scenario 2: 
+
+## “Check the total displayed number of results for category Smart Home | Televisions”
+
+TC1: Search should be proceeded when click on search button from GUI or Enter key from keyboard
+
+TC2: The search result number should differentiate from category to another
+
+TC3: Number of search results after using filter should be less than the number before using filters
+
+
+
+# Scenario 3:
+
+# “Check the selected currency displayed for the products' price”
+
+TC1: Ensure the currency parameter is = AED in the URL
+
+TC2: Ensure the currency is displayed and calculated right in the shopping cart
+
+TC3: Ensure the currency is appear at the gift card as AED
