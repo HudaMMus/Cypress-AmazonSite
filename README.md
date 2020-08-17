@@ -33,7 +33,7 @@ For manual Test: JMeter (Thread Group.jmx)
 
 
 ## List of Files included
-Testcases file "Highlighted Test cases"
+Testcases file path: "Cypress-AmazonSite-Task/Highlighted Test cases"
 
 Report file path: "cypress\reports\mocha"
 
